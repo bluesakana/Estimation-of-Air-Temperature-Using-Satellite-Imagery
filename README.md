@@ -60,7 +60,7 @@ We will try the following models for air temperature estimation (based on models
 * Training data from [**So2Sat LCZ42**](https://paperswithcode.com/dataset/so2sat-lcz42) - LCZ labels of ~500k SENTINEL-1 and SENTINEL-2 image patches in 42 urban agglomerations across the globe, access via [tensorflow in python](https://github.com/zhu-xlab/So2Sat-LCZ42)
 * Test data from images of Singapore from [**SENTINEL-2 data obtained through Google Earth Engine**](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2) and potentially match with results from this [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029796)
 
-<img src='./images/weather-stations.jpg' style="display: block; margin: 0 auto" width="500" height="800">
+<img src='./images/weather-stations.jpg' style="display: block; margin: 0 auto" width="500" height="300">
 
 
 #### Model for Air Temperature Estimation will use
