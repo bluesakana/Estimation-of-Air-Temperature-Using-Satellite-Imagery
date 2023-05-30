@@ -1,0 +1,5 @@
+Questions for office hours
+1. Have an ee.Image - sen2_doi and an ee.FeatureCollection - sgmap_grid_lst
+    How to filter sen2_doi to just the geometry of sgmap_grid_list
+2. How to visualise property of featurecollection
+    

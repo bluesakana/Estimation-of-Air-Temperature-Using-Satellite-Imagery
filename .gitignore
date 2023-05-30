@@ -78,6 +78,13 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Tensorflow Models
+/models/model_resnet50_7/
+/models/model_resnet50_10ch_trans_rev_4/
+
+# Monitoring Agent
+*.sh
+
 # IPython
 profile_default/
 ipython_config.py

@@ -47,6 +47,7 @@ We will try the following models for LCZ:
 * CNN (build on [Sen2LCZ-Net-MF](https://ieeexplore.ieee.org/abstract/document/9103196))
 * CNN (build on [ResNet-50](https://datagen.tech/guides/computer-vision/resnet-50/))
 <br>*Metric: Overall accuracy*
+https://github.com/satellite-image-deep-learning/techniques
 
 We will try the following models for air temperature estimation (based on models used in papers in background paragraphs):
 * Random Forest Classifier
